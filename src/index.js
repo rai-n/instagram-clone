@@ -17,3 +17,5 @@ ReactDOM.render(<App />, document.getElementById("root"));
 // helpers
 // lib
 // firebase services
+// tailwind styles 
+// tailwind app/tailwind
